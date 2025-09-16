@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Gayatri Mantra",
+    "text": "Om Bhur Bhuvah Svah...",
+    "category": "Mantra"
+  },
+  {
+    "id": 2,
+    "title": "Hanuman Chalisa",
+    "text": "Jai Hanuman Gyan Gun Sagar...",
+    "category": "Stotra"
+  },
+  {
+    "id": 3,
+    "title": "Mahamrityunjaya Mantra",
+    "text": "Om Tryambakam Yajamahe...",
+    "category": "Mantra"
+  },
+  {
+    "id": 4,
+    "title": "Asatoma Sadgamaya",
+    "text": "Asatoma Sadgamaya, Tamaso Ma Jyotirgamaya...",
+    "category": "Shloka"
+  }
+]
